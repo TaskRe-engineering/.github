@@ -1,6 +1,6 @@
 # Task Re-engineering Inc.
 
-<img src="task-logo-grey.svg" alt="Task Re-engineering Logo" width="200"/>
+<img src="./profile/task-logo-grey.svg" alt="Task Re-engineering Logo" width="200"/>
 
 Task Re-engineering Inc. was founded in 1989 to continue the work of the principal at the University of Michigan, Queen's University, Logicware, and the Allied Signal Expert System Centre. The company is dedicated to research and to knowledge engineering.
 
