@@ -8,4 +8,4 @@ Task Re-engineering also provides consulting to support research, including mana
 
 ## More information
 
-You can find more information about the company, including projects and successes, on our website at [taskre-engineering.com](http://taskre-engineering.com).
+You can find more information about the company, including projects and successes, on our website at [taskre-engineering.com](https://taskre-engineering.com).
